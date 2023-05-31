@@ -1,5 +1,5 @@
 # Js-Apren-GeneradorCitas
- Generador de citas con boton js
+ Generador de citas con botón js
 
 
 Este es un proyecto personal de aprendizaje de js .
